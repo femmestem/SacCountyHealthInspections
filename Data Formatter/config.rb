@@ -1,3 +1,7 @@
+require 'rubygems'
+require 'bundler/setup'
+require 'csv'
+
 INPUT_DIR = "../PDF-to-Text/Processed/"
 OUTPUT_DIR = "./Processed/"
 
