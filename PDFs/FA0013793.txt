@@ -1,0 +1,164 @@
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/26/2015
+
+Time In: 3:20 pm
+
+Time Out: 4:20 pm
+
+Page:
+
+1 of 2
+
+Facility Name: 99 RANCH MARKET
+
+Address: 4220 FLORIN RD
+
+CT FA
+
+49.04
+
+FA0013793
+
+Permit Holder: WELCOME MARKET INC
+
+City: Sacramento
+
+Zip Code: 95823
+
+PR PR0096374
+
+PE
+
+1622
+
+Phone (916)429-8899
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 1a DEMONSTRATION OF KNOWLEDGE
+OBSERVATIONS: Per employee interview, seafood cutting blocks are not washed, rinsed and sanitized every 4 hours. Blocks are sprayed with water frequently and washed once a day. Ambient of seafood room was at 65F. Food contact surfaces that have been in contact with potentially hazardous foods must be washed, rinsed and sanitized every 4 hours. Copy of CalCode was provided. Correct immediately.
+CODE DESCRIPTION: Food employees shall have adequate knowledge of food safety as it relates to their assigned duties. (113947)
+# 7 HOT AND COLD HOLDING TEMPERATURES
+OBSERVATIONS: Fish paste (43F), prawns (46F), salmon (45F-46F) and halibut (45F) in the seafood case were out of temperature. Correct immediately.
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return to the required holding temperatures. (113996, 113998, 114037)
+# 14a FOOD CONTACT SURFACES CLEANED AND SANITIZED
+OBSERVATIONS: Upper ice chute panel in the ice machine (used for fish ice bath) has heavy slime accumulation. Correct within 1 day.
+CODE DESCRIPTION: Food contact surfaces, utensils, and equipment shall be cleaned and sanitized at the following times: before each use with different type of raw food of animal origin, when changing from raw food to ready to eat food, between uses with raw produce and potentially hazardous food, before using a thermometer, any time during the operation when contamination may have occurred. Food-contact surfaces and utensils shall be clean to sight and touch. (114113, 114115, 114117, 114125(b), 114141)
+# 35 EQUIPMENT APPROVED AND MAINTAINED
+OBSERVATIONS: Sliced, exposed sea bass steaks are stored directly inside a shopping cart in the seafood freezer. Correct immediately.
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2, 114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+# 39 TEMPERATURE MEASURING DEVICES
+OBSERVATIONS: Seafood case built-in monitoring thermometers are not working and additional monitoring thermometers were not available inside unit. Correct within 3 days.
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines. (114157, 114159)
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/26/2015
+
+Time In: 3:20 pm
+
+Time Out: 4:20 pm
+
+Page:
+
+2 of 2
+
+Facility Name: 99 RANCH MARKET
+
+Address: 4220 FLORIN RD
+
+CT FA
+
+49.04
+
+FA0013793
+
+Permit Holder: WELCOME MARKET INC
+
+City: Sacramento
+
+Zip Code: 95823
+
+PR PR0096374
+
+PE
+
+1622
+
+Phone (916)429-8899
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 41 PLUMBING FIXTURES AND BACKFLOW PREVENTION
+OBSERVATIONS: First 3-compartment sink inside the seafood prep room is leaky at the faucet. Correct within 7 days.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+
+OVERALL INSPECTION COMMENTS OBSERVATIONS
+
+Name on Food Safety Certificate
+
+Renn Dih Chu
+
+Expiration Date
+
+09/17/2020
+
+Warewash
+
+Chlorine (Cl)
+
+ppm
+
+Water/Hot Water
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA) 120 º F Hand Sink Temp
+
+ppm 102 º F
+
+Heat
+
+º F Iodine
+
+ppm
+
+Wiping Cloth
+
+100 ppm Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION octopus / seafood walk-in / 36.00 ºF
+
+clams / shellfish tank / 43.00 ºF
+
+NOTES Inspection conducted for fish fry station and seafood department.
+
+STATUS
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required o RED- Closed; Suspension of permit to operate o Placard program not applicable at this time
+ACTIONS
+o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) o Food safety education required; # of employees o Permit Suspension; facility closure required (51)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by: Name and Title: Randy Chu / Manager Specialist: S. Fong Co-Inspector:
+
+Phone: (916)876-7885
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

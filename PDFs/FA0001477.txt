@@ -1,0 +1,166 @@
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/09/2015
+
+Time In: 2:30 pm
+
+Time Out: 3:25 pm
+
+Page:
+
+1 of 2
+
+Facility Name: STARBUCKS COFFEE COMPANY #5320
+
+Address: 1689 ARDEN WAY 1110
+
+CT FA
+
+55.02
+
+FA0001477
+
+PR
+
+Permit Holder: STARBUCKS CORPORATION
+
+City: Sacramento
+
+Zip Code: 95815
+
+PR0006930
+
+PE
+
+1623
+
+Phone (916)568-7420
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 8 TIME AS A PUBLIC HEALTH CONTROL
+OBSERVATIONS: Timer for the two carafes of half and half had expired and the content of the carafes had not been discarded. All food items using time as a public health control must be discarded once time has expired. Content of the carafes were voluntarily discarded.
+CODE DESCRIPTION: When time as a public health control is used, the following procedures shall be observed: food items shall be marked to indicate four hours past the time when the food was removed from temperature control, food shall be served or discarded within the four-hour time limit, written procedures for food that was prepared, cooked, and refrigerated before time as a public health control was used, shall be maintained at the food facility and be made available to the enforcement agency upon request. (114000)
+
+MAJOR
+
+# 7 HOT AND COLD HOLDING TEMPERATURES
+OBSERVATIONS: Non-fat milk (50F) on the counter to the right of the cappuccino machine was out of proper holding temperature. Maintain all potentially hazardous foods (PHF) at proper holding temperature at all times. Correct immediately.
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return to the required holding temperatures. (113996, 113998, 114037)
+# 21 HOT AND COLD WATER SUPPLY
+OBSERVATIONS: Hot water in the 3-comp sink peaked at 118F. Repair to be able to provide hot water that is at least 120F at all times. Correct within 3 days.
+CODE DESCRIPTION: An adequate, protected, pressurized, potable supply of hot and cold water shall be provided at all times. Hot water shall be supplied at a minimum temperature of at least 120F when measured from the faucet. The temperature of water provided to handwashing facilities shall be at least 100F. Handwashing facilities equipped with auto run faucets shall have their water temperature set between 100F to 108F. (113953(c), 114101(d), 114189, 114192, 114192.1, 114195)
+# 33 NONFOOD-CONTACT SURFACES CLEAN
+OBSERVATIONS: Floor under the back counter is in need of cleaning due to debris accumulation. Correct within 24 hours.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+# 36 EQUIPMENT STORED IN APPROVED LOCATION
+OBSERVATIONS: Apron was used by an employee to remove the excess/overflow on the beverage container before handing to customer. Do not use potentially unclean linen to clean containers of food. Correct immediately.
+CODE DESCRIPTION: Clean equipment, utensils, linens, and single-use articles shall be stored at least six inches above the floor in an approved location within the fully enclosed permitted food facility. Clean equipment, utensils, linens, and single-use articles shall not be exposed to splash, dust, vermin or other forms of contamination. Non-food items shall be stored and displayed separate from food and food-contact surfaces. During pauses in food preparation utensils shall be stored with handles above the top of the food, on a clean sanitized surface, in running water, or in water that is at least 135F. Single-use articles and multiservice utensils shall be handled, displayed, and dispensed so that contamination of food and lip-contact surfaces is prevented. Pressurized cylinders shall be securely fastened to rigid structure. (114074, 114081, 114119, 114121, 114161, 114172, 114178, 114179, 114083, 114185, 114185.2, 114185.3, 114185.4, 114185.5)
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/09/2015
+
+Time In: 2:30 pm
+
+Time Out: 3:25 pm
+
+Page:
+
+2 of 2
+
+Facility Name: STARBUCKS COFFEE COMPANY #5320
+
+Address: 1689 ARDEN WAY 1110
+
+CT FA
+
+55.02
+
+FA0001477
+
+PR
+
+Permit Holder: STARBUCKS CORPORATION
+
+City: Sacramento
+
+Zip Code: 95815
+
+PR0006930
+
+PE
+
+1623
+
+Phone (916)568-7420
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS OBSERVATIONS
+
+Name on Food Safety Certificate
+
+Ophelia Bizeau
+
+Expiration Date
+
+04/24/2020
+
+Warewash
+
+Chlorine (Cl)
+
+ppm
+
+Water/Hot Water
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA) 118 º F Hand Sink Temp
+
+200 ppm 100 º F
+
+Heat
+
+º F Iodine
+
+ppm
+
+Wiping Cloth
+
+200 ppm QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION cream / upright reach-in (back area) / 34.00 ºF
+
+milk / back counter reach-in / 39.00 ºF
+
+NOTES
+
+STATUS
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required o RED- Closed; Suspension of permit to operate o Placard program not applicable at this time
+ACTIONS
+o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) o Food safety education required; # of employees o Permit Suspension; facility closure required (51)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by: Name and Title: Ophelia Bizeau / Manager Specialist: D. Catanyag Co-Inspector:
+
+Phone: (916)875-8431
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

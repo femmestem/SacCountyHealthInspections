@@ -1,0 +1,164 @@
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/20/2015
+
+Time In: 2:55 pm
+
+Time Out: 3:50 pm
+
+Page:
+
+1 of 2
+
+Facility Name: BOXCAR EATS
+
+Address: 1023 FRONT ST A
+
+CT 07.00
+
+FA
+
+FA0014906
+
+Permit Holder: THOMAS GRAULTY
+
+City: Sacramento
+
+Zip Code: 95814
+
+PR PR0030710
+
+PE
+
+1623
+
+Phone (916)668-7075
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 5a HANDWASHING PROCEDURES
+OBSERVATIONS: Employee opened bathroom door for inspection with gloves hand and used that same gloves hand to remove ice cream cones from package. Discarded. Ensure gloves are removed and hands washed prior to re-gloving in between different tasks or whenever gloves become contaminated.
+CODE DESCRIPTION: Employees are required to wash their hands in the following situations: before engaging in food preparation, after touching bare skin, after using the toilet room, after coughing or sneezing, after eating, drinking, or using tobacco, after handling soiled equipment or utensils, as often as necessary during food preparation to prevent cross-contamination, when switching from working with raw to ready to eat foods, before donning gloves, before dispensing or serving food, after engaging in other activities that may contaminate hands. (113952, 113953.3, 113953.4)
+
+MAJOR
+
+# 7 HOT AND COLD HOLDING TEMPERATURES
+OBSERVATIONS: Cheesecake at self-service unit observed at 43F. REPEAT VIOLATION. Maintain 41F or below at all times.
+Coca-cola refrigerator at front ice cream counter observed with Vit D milk inside at 47F. Turn unit colder immediately.
+Maintain potentially hazardous foods 41F or below.
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return to the required holding temperatures. (113996, 113998, 114037)
+# 14b WAREWASHING AND SANITIZING PROCEDURES
+OBSERVATIONS: Sanitizer solution in 3-comp prep sink observed at 150ppm quat ammonia. REPEAT VIOLATION. Maintain a minimum of 200ppm quat ammonia at all times. Corrected.
+CODE DESCRIPTION: Food-contact surfaces and multiservice utensils shall be effectively washed, rinsed, and sanitized to remove or completely loosen soils by use of manual or mechanical methods. The temperature of the washing solution shall be maintained at least 100F or at the temperature specified by the manufacturer's label. Manual sanitation shall be accomplished during the final rinse by contact with solution containing 100 ppm available chlorine or 200 ppm quaternary ammonium. Mechanical sanitization shall be accomplished in the final rinse by achieving a utensil surface temperature of 160F or by contact with solution containing 50 ppm available chlorine. After cleaning and sanitizing, equipment and utensils shall be air dried. (114097, 114099.1, 114099.2, 114099.4, 114099.6, 114099.7, 114101 (b-d), 114105, 114109, 114111)
+# 35 EQUIPMENT APPROVED AND MAINTAINED
+OBSERVATIONS: Liquid accumulation observed at bottom of 2-door stand-up refrigerator. REPEAT VIOLATION. Clean today. Locate source and eliminate within 5 days.
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2, 114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/20/2015
+
+Time In: 2:55 pm
+
+Time Out: 3:50 pm
+
+Page:
+
+2 of 2
+
+Facility Name: BOXCAR EATS
+
+Address: 1023 FRONT ST A
+
+CT 07.00
+
+FA
+
+FA0014906
+
+Permit Holder: THOMAS GRAULTY
+
+City: Sacramento
+
+Zip Code: 95814
+
+PR PR0030710
+
+PE
+
+1623
+
+Phone (916)668-7075
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 48 PLAN REVIEW CONSTRUCTION AND REMODELING
+OBSERVATIONS: Front prep area installed in front area for ice cream scooping, waffle cone making and shake making with no handsink or dump sink. Original plans with EMD do not show this area. Plans must be submitted to EMD Plan Review within 14 days and area must comply with code requirements. Flooring is hard wood with gaps in between slats, walls and not smooth or easily cleanable, and ice cream scoops are stored in stagnant containers of water and lighting appears inadequate.
+CODE DESCRIPTION: A person proposing to build or remodel a food facility shall submit plans for approval before starting any new construction or remodeling of any facility for use as a retail food facility. (114380)
+
+OVERALL INSPECTION COMMENTS OBSERVATIONS
+
+Name on Food Safety Certificate
+
+Thomas Graulty
+
+Expiration Date
+
+05/01/2019
+
+Warewash
+
+Chlorine (Cl)
+
+ppm
+
+Water/Hot Water
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA) 136 º F Hand Sink Temp
+
+150 ppm 100 º F
+
+Heat
+
+º F Iodine
+
+Wiping Cloth
+
+ppm
+
+ppm Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION na / na / 0.00 ºF
+
+NOTES
+NOTE Most violations observed today are REPEAT VIOLATIONS. All violations are required to be corrected and maintained corrected.
+
+STATUS
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required o RED- Closed; Suspension of permit to operate o Placard program not applicable at this time
+ACTIONS
+o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) o Food safety education required; # of employees o Permit Suspension; facility closure required (51)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by: Name and Title: Thomas Graulty / owner Specialist: K. Wagner Co-Inspector:
+
+Phone: (916)875-8440
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

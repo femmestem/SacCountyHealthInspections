@@ -1,0 +1,275 @@
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/14/2015
+
+Time In: 11:30 am
+
+Time Out: 12:40 pm
+
+Page:
+
+1 of 4
+
+Facility Name: TAIWAN BEST MART
+
+Address: 2219 10TH ST
+
+CT FA
+
+21.00
+
+FA0046658
+
+Permit Holder: LUKE CHANG
+
+City: Sacramento
+
+Zip Code: 95818
+
+PR PR0098395
+
+PE
+
+1622
+
+Phone (916)498-1698
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 14b WAREWASHING AND SANITIZING PROCEDURES
+OBSERVATIONS: Observed employee with ground chicken on their hands, take bus tub that was used for vegetables (per owner), rinse their hands over the bus tub at the 3-comp sink then rinse off the bus tub and put it away for drying. Also see #5. Any time equipment requires cleaning, it must be washed -> rinsed -> sanitized -> air dried. Equipment re-washed. Review with employees immediately.
+CODE DESCRIPTION: Food-contact surfaces and multiservice utensils shall be effectively washed, rinsed, and sanitized to remove or completely loosen soils by use of manual or mechanical methods. The temperature of the washing solution shall be maintained at least 100F or at the temperature specified by the manufacturer's label. Manual sanitation shall be accomplished during the final rinse by contact with solution containing 100 ppm available chlorine or 200 ppm quaternary ammonium. Mechanical sanitization shall be accomplished in the final rinse by achieving a utensil surface temperature of 160F or by contact with solution containing 50 ppm available chlorine. After cleaning and sanitizing, equipment and utensils shall be air dried. (114097, 114099.1, 114099.2, 114099.4, 114099.6, 114099.7, 114101 (b-d), 114105, 114109, 114111)
+
+MAJOR
+
+# 5a HANDWASHING PROCEDURES
+OBSERVATIONS: Observed employee with hands covered in ground poultry rinse their hands at the warewash sink over a bus tub and then put away a bus tub. See 14b. Employee asked to wash their hands with soap.
+Observed 2nd employee rinse their hands at the warewash sink. Employee asked to wash their hands with soap.
+Observed employee sanitize equipment and leave sanitizer on their hands. Employee asked to wash their hands prior to working with food.
+Employee moved garbage can by hand, after washing their hands and did not wash their hands. Employee asked to wash their hands.
+Hands must be washed in between different tasks, prior to glove use or whenever contaminated. Review with employees immediately.
+CODE DESCRIPTION: Employees are required to wash their hands in the following situations: before engaging in food preparation, after touching bare skin, after using the toilet room, after coughing or sneezing, after eating, drinking, or using tobacco, after handling soiled equipment or utensils, as often as necessary during food preparation to prevent cross-contamination, when switching from working with raw to ready to eat foods, before donning gloves, before dispensing or serving food, after engaging in other activities that may contaminate hands. (113952, 113953.3, 113953.4)
+# 18 HACCP REQUIREMENTS
+OBSERVATIONS: Facility is still using vacuum packing for meats without an approved HACCP Plan from the California Dept. of Public Health. 2ND REPEAT VIOLATION. Meats found packaged and frozen.
+Vacuum packing must be discontinued immediately. If this violation is repeated, all food will be required to be discarded. Reinspections at a cost may also occur to ensure compliance.
+CODE DESCRIPTION: Food facilities may engage in any of the following activities only pursuant to an HACCP plan: smoking food as a method of preservation, curing food, using food additives or adding components such as vinegar as a method of preservation, operating a molluscan shellfish life support system display tank, or custom processing animals that are for personal use. Food facilities may engage in the following activities only pursuant to an HACCP plan that has been approved by the department (CDPH): using acidification or water activity to prevent the growth of Clostridium botulinum, packaging potentially hazardous food using a reduced-oxygen packaging method. (114419, 114419.1, 114419.2, 114419.3 114039.5, 114057, 114057.1)
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/14/2015
+
+Time In: 11:30 am
+
+Time Out: 12:40 pm
+
+Page:
+
+2 of 4
+
+Facility Name: TAIWAN BEST MART
+
+Address: 2219 10TH ST
+
+CT FA
+
+21.00
+
+FA0046658
+
+Permit Holder: LUKE CHANG
+
+City: Sacramento
+
+Zip Code: 95818
+
+PR PR0098395
+
+PE
+
+1622
+
+Phone (916)498-1698
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 23 VERMIN AND ANIMAL CONTAMINATION
+OBSERVATIONS: Several house flies observed in prep area. Eliminate pests with approved pest control. Ensure any food surface contacted by flies is sanitized and any food contacted by flies is discarded. Correct today.
+CODE DESCRIPTION: A food facility shall at all times be equipped, maintained, and operated as to prevent the entrance and harborage of animals, birds, and vermin, including, but not limited to rodents and insects. (114259, 114259.1, 114259.4, 114259.5) # 30b FOOD CONTAINERS LABELED
+OBSERVATIONS: Unlabeled food containers with white substances across from handsink. Labels must be in English. correct today.
+CODE DESCRIPTION: Containers holding food or food ingredients that are removed from their original packaging shall be identified with the common name of the food. (114051) # 33 NONFOOD-CONTACT SURFACES CLEAN
+OBSERVATIONS: Dust accumulation on fan grills inside 3-door stand up. Clean within 5 days.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+# 35 EQUIPMENT APPROVED AND MAINTAINED
+OBSERVATIONS: Bulk scoops stored on top of containers are unclean. Wash -> rinse -> sanitize -> air dry daily.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2, 114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+# 38 VENTILATION AND LIGHTING
+OBSERVATIONS: Inoperable light inside 3-door stand-up. Replace with shatterproof light within 7 days.
+Grease accumulation inside hood filters. Clean within 3 days.
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+# 39 TEMPERATURE MEASURING DEVICES
+OBSERVATIONS: Both thermometers inside main prep unit inaccurate. Calibrate probe to 32F today. Corrected.
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/14/2015
+
+Time In: 11:30 am
+
+Time Out: 12:40 pm
+
+Page:
+
+3 of 4
+
+Facility Name: TAIWAN BEST MART
+
+Address: 2219 10TH ST
+
+CT FA
+
+21.00
+
+FA0046658
+
+Permit Holder: LUKE CHANG
+
+City: Sacramento
+
+Zip Code: 95818
+
+PR PR0098395
+
+PE
+
+1622
+
+Phone (916)498-1698
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines. (114157, 114159)
+# 41 PLUMBING FIXTURES AND BACKFLOW PREVENTION
+OBSERVATIONS: Unable to obtain hot water by use of faucet handle on left side of 3-comp sink. Repair within 7 days.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+# 44b APPROPRIATE USE OF EQUIPMENT
+OBSERVATIONS: Observed two employees rinse their hands in the 3-comp warewash sink. Warewash sink is only for washing equipment, handsink is only for handwashing, and prep sink is only for food preparation. Review requirements with employees.
+CODE DESCRIPTION: Employees shall not clean their hands in a sink used for food preparation, warewashing, or in a service sink or a curbed cleaning facility used for the disposal of mop water and similar liquid waste. A handwashing facility shall not be used for purposes other than handwashing. Food preparation sinks, handwashing lavatories, and warewashing equipment shall not be used for the cleaning of maintenance tools, the preparation or holding of maintenance materials, or the disposal of mop water and similar liquid wastes. Open-air barbecue or outdoor wood-burning oven shall be operated on the same premises as, in reasonable proximity to, and in conjunction with, a permanent food facility that is approved for food preparation. (113953.1 (b-d), 114123, 114143 (a,b), Exception 114125)
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/14/2015
+
+Time In: 11:30 am
+
+Time Out: 12:40 pm
+
+Page:
+
+4 of 4
+
+Facility Name: TAIWAN BEST MART
+
+Address: 2219 10TH ST
+
+CT FA
+
+21.00
+
+FA0046658
+
+Permit Holder: LUKE CHANG
+
+City: Sacramento
+
+Zip Code: 95818
+
+PR PR0098395
+
+PE
+
+1622
+
+Phone (916)498-1698
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS OBSERVATIONS
+
+Name on Food Safety Certificate
+
+Luke Chang
+
+Expiration Date
+
+10/12/2019
+
+Warewash
+
+Chlorine (Cl)
+
+0 ppm
+
+Water/Hot Water
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA) 124 º F Hand Sink Temp
+
+ppm 100 º F
+
+Heat 110 º F Iodine Wiping Cloth
+
+ppm
+
+ppm Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION meat / prep unti / 42.00 ºF cooked eggs / 2-door stand-up / 36.00 ºF
+NOTES
+
+rice / cooker / 159.00 ºF
+
+Note Due to lack of knowledge regarding proper handwashing and warewashing, all employees are required to attend mandatory food safety education provided by EMD at a cost. Information will be mailed to facility.
+
+STATUS
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required o RED- Closed; Suspension of permit to operate o Placard program not applicable at this time
+ACTIONS
+o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) x Food safety education required; # of employees 4 o Permit Suspension; facility closure required (51)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by: Name and Title: Luke Chang / owner Specialist: K. Wagner Co-Inspector:
+
+Phone: (916)875-8440
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

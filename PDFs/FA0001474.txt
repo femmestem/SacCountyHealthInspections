@@ -1,0 +1,171 @@
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/09/2015
+
+Time In: 3:25 pm
+
+Time Out: 4:00 pm
+
+Page:
+
+1 of 2
+
+Facility Name: GODIVA CHOCOLATIER
+
+Address: 1689 ARDEN WAY 1070
+
+CT FA
+
+55.02
+
+FA0001474
+
+Permit Holder: GODIVA CHOCOLATIER
+
+City: Sacramento
+
+Zip Code: 95815
+
+PR PR0049245
+
+PE
+
+1623
+
+Phone (916)649-1906
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 7 HOT AND COLD HOLDING TEMPERATURES
+OBSERVATIONS: Whipped cream (60F) in a canister in the register area handwash station was out of proper holding temperature. Maintain all potentially hazardous foods (PHF) at proper holding temperature at all times. This item was voluntarily discarded.
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return to the required holding temperatures. (113996, 113998, 114037)
+
+MAJOR
+
+# 1c FOOD HANDLER CARDS
+OBSERVATIONS: At least one food handler certificate is expired. Register individuals lacking current certificates within 7 days. REPEAT VIOLATION.
+CODE DESCRIPTION: Food handlers that prepare, handle, or serve non-prepackaged potentially hazardous food, shall obtain a valid Food Handler Card within 30 days after date of hire. (113948)
+# 6 HANDWASHING FACILITIES
+OBSERVATIONS: Paper towel dispenser in the restroom was empty. There is another handwashing station immediately outside of the restroom that is fully stocked. Keep all dispensers adequately filled at all times. Correct immediately.
+CODE DESCRIPTION: Handwashing facilities shall be provided within or adjacent to toilet rooms, food preparation, and warewashing areas. Handwashing facilities shall be clean, unobstructed, and accessible at all times. Handwashing facilities shall be provided with soap and sanitary single-use towels or heated-air hand drying device in approved dispensers. Dispensers shall be maintained in good repair. (113953, 113953.1, 113953.2)
+# 30a FOOD STORED IN APPROVED LOCATION
+OBSERVATIONS: Boxes of milk chocolate discs stored on the floor under the electrical panel. Store all food and food related items at least 6" off the floor at all times. Correct within 3 days.
+CODE DESCRIPTION: Food items shall be stored at least six inches above the floor in an approved location within the fully enclosed permitted food facility. Food shall not be exposed to splash, dust, vermin, or other forms of contamination or adulteration. Prepackaged food may not be stored in direct contact with ice if the food is subject to the entry of water because of the nature of it's packaging. Non-prepackaged food may not be stored in direct contact with undrained ice. (114047, 114049, 114053, 114055, 114069 (b))
+# 38 VENTILATION AND LIGHTING
+OBSERVATIONS: Light fixture above the 3-comp sink is lacking shatter proof covers. Provide within 14 days.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/09/2015
+
+Time In: 3:25 pm
+
+Time Out: 4:00 pm
+
+Page:
+
+2 of 2
+
+Facility Name: GODIVA CHOCOLATIER
+
+Address: 1689 ARDEN WAY 1070
+
+CT FA
+
+55.02
+
+FA0001474
+
+Permit Holder: GODIVA CHOCOLATIER
+
+City: Sacramento
+
+Zip Code: 95815
+
+PR PR0049245
+
+PE
+
+1623
+
+Phone (916)649-1906
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 45 FLOOR, WALL, AND CEILING FINISHES
+OBSERVATIONS: Broken cove tile observed to the left of the milk chocolate tempering unit. Repair within 7 days.
+Damaged wall observed to the right of the ice machine. Repair wall to eliminate hole within 7 days. REPEAT VIOLATION.
+CODE DESCRIPTION: Food facilities shall be fully enclosed in a building consisting of permanent floors, walls, and an overhead structure that meets minimum standards. The walls and ceiling shall be smooth, durable, nonabsorbent, and easily cleanable. Flooring and base coving shall be smooth, durable, and made of approved nonabsorbent material that is easily cleanable. Floor surfaces shall be coved at the juncture of the floor and wall with a 3/8 inch minimum radius and shall extend up the wall at least 4 inches. (114143 (d), 114266, 114268, 114268.1, 114271, 114272)
+
+OVERALL INSPECTION COMMENTS OBSERVATIONS
+
+Name on Food Safety Certificate
+
+Suzanne Lopez
+
+Expiration Date
+
+03/17/2016
+
+Warewash
+
+Chlorine (Cl)
+
+ppm
+
+Water/Hot Water
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA) 121 º F Hand Sink Temp
+
+200 ppm 121 º F
+
+Heat
+
+º F Iodine
+
+Wiping Cloth
+
+ppm
+
+ppm Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION No Temperature Data Reported
+
+NOTES
+
+STATUS
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required o RED- Closed; Suspension of permit to operate o Placard program not applicable at this time
+ACTIONS
+o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) o Food safety education required; # of employees o Permit Suspension; facility closure required (51)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+
+Name and Title: Rachael Mott / Assistant Manager
+
+Specialist: D. Catanyag
+
+Phone: (916)875-8431
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

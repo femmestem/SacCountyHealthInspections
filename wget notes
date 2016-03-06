@@ -1,0 +1,8 @@
+wget -w 3 -i filenamehere
+--output-document=
+
+wget -O file1.pdf https://emdinspections.saccounty.net/document.aspx?id={DD878831-3A38-47CB-A3AE-C8F1BE20A0BD}&type=application/pdf
+wget -O file2.pdf https://emdinspections.saccounty.net/document.aspx?id={04920555-CFD2-4B8F-A12B-678F02224E33}&type=application/pdf
+
+for file in *.pdf; do pdftotext "$file" "$file.txt"; done
+for file in *.pdf; do pdftotext "$file"; done
