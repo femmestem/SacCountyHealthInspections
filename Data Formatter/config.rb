@@ -1,12 +1,7 @@
-require "rubygems"
-require "bundler/setup"
-require "csv"
-
-INPUT_DIR = "../PDF-to-Text/Processed/"
-OUTPUT_DIR = "./Processed/"
+TXT_DIR = "../PDF-to-Text/Processed/"
 
 # Get all inspection report files
-ALL_TXT_REPORTS = Dir.entries(File.expand_path INPUT_DIR).select { |filename| filename.end_with? ".txt"}
+ALL_TXT_REPORTS = Dir.entries(File.expand_path TXT_DIR).select { |filename| filename.end_with? ".txt"}
 
 COLUMN_HEADERS = [
 "report_id",
