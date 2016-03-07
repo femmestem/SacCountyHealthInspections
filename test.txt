@@ -1,5 +1,0 @@
-FA0001004.txt:44:# 23 VERMIN AND ANIMAL CONTAMINATION
-FA0001004.txt:47:# 30a FOOD STORED IN APPROVED LOCATION
-FA0001004.txt:51:# 36 EQUIPMENT STORED IN APPROVED LOCATION
-FA0001004.txt:55:# 40 WIPING CLOTHS STORAGE AND USE
-FA0001004.txt:150:o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) o Food safety education required; # of employees o Permit Suspension; facility closure required (51)
