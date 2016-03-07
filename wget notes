@@ -15,3 +15,16 @@ for file in *.pdf; do pdftotext "$file"; done
 *the below line uses regular expressions to key in on lines starting with hashtag/pound sign, which are the violations;
 *prelim to using grep on every single text file and pipe + appending for a master list of violations, building up to .csv file;
 grep -n '#' FA0001004.txt
+
+potentials (YES, TESTED AND THEY WORK!)
+
+-H to add filenames
+>> to redirect (append)
+
+
+
+now, modify to loop all texts, no .sh needed
+
+for file in *.txt; do grep -nH '#' "$file" >> test.txt; done
+
+"grep -nH '#' FA0001006.txt >> test.txt”
