@@ -25,6 +25,16 @@ potentials (YES, TESTED AND THEY WORK!)
 
 now, modify to loop all texts, no .sh needed
 
+*not working, dis-regard temporarily;
 for file in *.txt; do grep -nH '#' "$file" >> test.txt; done
 
-"grep -nH '#' FA0001006.txt >> test.txt”
+*removed n for line #;
+"grep -H '#' FA0001006.txt >> test.txt” 
+
+
+final solution:
+
+rm violations
+grep -rni "#" * >> violations
+
+MAKE DARN SURE YOU RM THE VIOLATIONS FILE BEFORE, RECURSION WILL BLOW YOUR COMPUTER UP.. further research needed.. temporary solution reached
