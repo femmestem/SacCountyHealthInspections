@@ -26,3 +26,31 @@
 ./test.txt:./FA0001006.txt:# 40 WIPING CLOTHS STORAGE AND USE
 ./test.txt:./FA0001006.txt:# 45 FLOOR, WALL, AND CEILING FINISHES
 ./test.txt:./FA0001006.txt:o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) o Food safety education required; # of employees o Permit Suspension; facility closure required (51)
+./FA0001004.txt:# 23 VERMIN AND ANIMAL CONTAMINATION
+./FA0001004.txt:# 30a FOOD STORED IN APPROVED LOCATION
+./FA0001004.txt:# 36 EQUIPMENT STORED IN APPROVED LOCATION
+./FA0001004.txt:# 40 WIPING CLOTHS STORAGE AND USE
+./FA0001004.txt:o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) o Food safety education required; # of employees o Permit Suspension; facility closure required (51)
+./FA0001006.txt:# 7 HOT AND COLD HOLDING TEMPERATURES
+./FA0001006.txt:# 4 EATING, DRINKING, OR TOBACCO USE
+./FA0001006.txt:# 27 FOOD PROTECTED FROM CONTAMINATION
+./FA0001006.txt:# 29 IDENTIFICATION AND STORAGE OF TOXIC SUBSTANCES
+./FA0001006.txt:# 35 EQUIPMENT APPROVED AND MAINTAINED
+./FA0001006.txt:# 38 VENTILATION AND LIGHTING
+./FA0001006.txt:# 40 WIPING CLOTHS STORAGE AND USE
+./FA0001006.txt:# 45 FLOOR, WALL, AND CEILING FINISHES
+./FA0001006.txt:o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) o Food safety education required; # of employees o Permit Suspension; facility closure required (51)
+./test.txt:./FA0001004.txt:# 23 VERMIN AND ANIMAL CONTAMINATION
+./test.txt:./FA0001004.txt:# 30a FOOD STORED IN APPROVED LOCATION
+./test.txt:./FA0001004.txt:# 36 EQUIPMENT STORED IN APPROVED LOCATION
+./test.txt:./FA0001004.txt:# 40 WIPING CLOTHS STORAGE AND USE
+./test.txt:./FA0001004.txt:o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) o Food safety education required; # of employees o Permit Suspension; facility closure required (51)
+./test.txt:./FA0001006.txt:# 7 HOT AND COLD HOLDING TEMPERATURES
+./test.txt:./FA0001006.txt:# 4 EATING, DRINKING, OR TOBACCO USE
+./test.txt:./FA0001006.txt:# 27 FOOD PROTECTED FROM CONTAMINATION
+./test.txt:./FA0001006.txt:# 29 IDENTIFICATION AND STORAGE OF TOXIC SUBSTANCES
+./test.txt:./FA0001006.txt:# 35 EQUIPMENT APPROVED AND MAINTAINED
+./test.txt:./FA0001006.txt:# 38 VENTILATION AND LIGHTING
+./test.txt:./FA0001006.txt:# 40 WIPING CLOTHS STORAGE AND USE
+./test.txt:./FA0001006.txt:# 45 FLOOR, WALL, AND CEILING FINISHES
+./test.txt:./FA0001006.txt:o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) o Food safety education required; # of employees o Permit Suspension; facility closure required (51)
