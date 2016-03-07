@@ -6,3 +6,7 @@ wget -O file2.pdf https://emdinspections.saccounty.net/document.aspx?id={0492055
 
 for file in *.pdf; do pdftotext "$file" "$file.txt"; done
 for file in *.pdf; do pdftotext "$file"; done
+
+*the below line uses regular expressions to key in on lines starting with hashtag/pound sign, which are the violations;
+*prelim to using grep on every single text file and pipe + appending for a master list of violations, building up to .csv file;
+grep -n '#' FA0001004.txt
