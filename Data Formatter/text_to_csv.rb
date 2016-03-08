@@ -11,7 +11,6 @@ def convert_to_csv(file_path)
   report_header = @contents.slice(0, 3).map { |line| line = [line.chomp] }
   report_header << [@filename]
   delimited_rows = report_header + [[""]] + parse_contents
-  # p delimited_rows
 
   write_csv(delimited_rows, @new_file_path) unless delimited_rows.empty?
 end
