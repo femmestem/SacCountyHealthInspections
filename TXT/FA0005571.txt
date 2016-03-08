@@ -1,0 +1,219 @@
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/14/2015
+
+Time In: 10:30 am
+
+Time Out: 11:35 am
+
+Page:
+
+1 of 3
+
+Facility Name: HAGGINWOOD SCHOOL
+
+Address: 1418 PALO VERDE ST
+
+CT FA
+
+63.00
+
+FA0005571
+
+Permit Holder: TWIN RIVERS USD
+
+City: Sacramento
+
+Zip Code: 95815
+
+PR PR0006988
+
+PE
+
+1625
+
+Phone (916)263-8368
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 9 COOLING METHODS
+OBSERVATIONS: Observed ground beef taco meat stored in tightly covered bowl cooling inside walk-in cooler measured 97F. According to employee, taco meat was placed into walk-in at approximately 9:30 and will be used only if supply that is in hot holding runs out. Lunch ends at 12:30 pm and all prepared food is discarded. Do not tightly cover item tightly until it has reached 41F/below. Item was relocated to oven where it is being reheated to 165F.
+NOTE: Since food will be discarded at the end of lunch, highly recommend keeping hot potentially hazardous foods at/above 135F throughout lunch service, since it is unlikely to cool from 135F-70F within 2 hours and from 70F-41F/below.
+CODE DESCRIPTION: Potentially hazardous foods shall be rapidly cooled from 135F to 70F within 2 hours, and then from 70F to 41F within 4 hours. Cooling shall be by one or more of the following methods: in shallow containers, separating food into smaller portions, adding ice as an ingredient, using an ice bath, stirring frequently, using rapid cooling equipment, or using containers that facilitate heat transfer. (114002, 114002.1)
+# 29 IDENTIFICATION AND STORAGE OF TOXIC SUBSTANCES
+OBSERVATIONS: Observed unlabeled container of cleanser on shelf next to employee restroom. Label within 48 hours.
+
+CODE DESCRIPTION: All poisonous substances, detergents, sanitizers, and cleaning compounds shall be stored to prevent contamination of food, equipment, utensils, linens, and single-use articles. Only pesticides that are necessary and specifically approved for use in a food facility may be used. Containers of poisonous or toxic materials shall have a legible manufacturer's label or if taken from bulk supplies shall be clearly and individually identified with the common name of the material. (114254, 114254.1, 114254.2)
+# 35 EQUIPMENT APPROVED AND MAINTAINED
+OBSERVATIONS: EcoLab Oasis 146 dispenser does not consistently dispense quaternary ammonia solution at/above 200 ppm. Repair dispenser within 24 hours.
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2, 114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+# 36 EQUIPMENT STORED IN APPROVED LOCATION
+OBSERVATIONS: GE household microwave observed inside office. According to employee, microwave is sometimes used to reheat student food. Replace with ANSI/NSF approved commercial grade unit within 4 months.
+CODE DESCRIPTION: Clean equipment, utensils, linens, and single-use articles shall be stored at least six inches above the floor in an approved location within the fully enclosed permitted food facility. Clean equipment, utensils, linens, and single-use articles shall not be exposed to splash, dust, vermin or other forms of contamination. Non-food items shall be stored and displayed separate from food and food-contact surfaces. During pauses in food preparation utensils shall be stored with handles above the top of the food, on a clean sanitized surface, in running water, or in water that is at least 135F. Single-use articles and multiservice utensils shall be handled, displayed, and dispensed so that contamination of food and lip-contact surfaces is prevented. Pressurized cylinders shall be securely fastened to rigid structure. (114074, 114081, 114119, 114121, 114161, 114172, 114178, 114179, 114083, 114185, 114185.2, 114185.3, 114185.4, 114185.5)
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/14/2015
+
+Time In: 10:30 am
+
+Time Out: 11:35 am
+
+Page:
+
+2 of 3
+
+Facility Name: HAGGINWOOD SCHOOL
+
+Address: 1418 PALO VERDE ST
+
+CT FA
+
+63.00
+
+FA0005571
+
+Permit Holder: TWIN RIVERS USD
+
+City: Sacramento
+
+Zip Code: 95815
+
+PR PR0006988
+
+PE
+
+1625
+
+Phone (916)263-8368
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 40 WIPING CLOTHS STORAGE AND USE
+OBSERVATIONS: Sanitizer solution measured 150 ppm quaternary ammonia (see #35). Corrected to 200 ppm.
+
+CODE DESCRIPTION: Wiping cloths used to clean food and nonfood-contact surfaces shall be used only once unless kept in clean water with a sanitizer solution of 100 ppm available chlorine or 200 ppm quaternary ammonium. Sponges shall not be used on food-contact surfaces. Except for fabric implements, linen shall not be used in contact with food. (114099.6, 114135, 114185.1, 114185.3 (d-e)).
+# 41 PLUMBING FIXTURES AND BACKFLOW PREVENTION
+OBSERVATIONS: Observed leak from water faucet fixture at 2 compartment warewashing sink. Repair within 7 days.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+# 42 GARBAGE AND REFUSE DISPOSAL
+OBSERVATIONS: Dumpster lid left open. Keep closed between uses. Correct today.
+
+CODE DESCRIPTION: The exterior premises of a food facility shall be kept free of litter and rubbish. All food waste and rubbish shall be kept in nonabsorbent, durable, cleanable, leak-proof, and rodent-proof containers. Containers shall have close-fitting lids and be covered at all times. All waste must be removed and disposed of as frequently as necessary to prevent the development of objectionable odors and other conditions that attract or harbor insects or rodents. (114244, 114245, 114245.1, 114245.2, 114245.3, 114245.4, 114245.5, 114245.6, 114245.7, 114257)
+# 45 FLOOR, WALL, AND CEILING FINISHES
+OBSERVATIONS: Flooring around floor drain located in front of dish machine is in disrepair. Repair within 30 days.
+
+CODE DESCRIPTION: Food facilities shall be fully enclosed in a building consisting of permanent floors, walls, and an overhead structure that meets minimum standards. The walls and ceiling shall be smooth, durable, nonabsorbent, and easily cleanable. Flooring and base coving shall be smooth, durable, and made of approved nonabsorbent material that is easily cleanable. Floor surfaces shall be coved at the juncture of the floor and wall with a 3/8 inch minimum radius and shall extend up the wall at least 4 inches. (114143 (d), 114266, 114268, 114268.1, 114271, 114272)
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/14/2015
+
+Time In: 10:30 am
+
+Time Out: 11:35 am
+
+Page:
+
+3 of 3
+
+Facility Name: HAGGINWOOD SCHOOL
+
+Address: 1418 PALO VERDE ST
+
+CT FA
+
+63.00
+
+FA0005571
+
+Permit Holder: TWIN RIVERS USD
+
+City: Sacramento
+
+Zip Code: 95815
+
+PR PR0006988
+
+PE
+
+1625
+
+Phone (916)263-8368
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS OBSERVATIONS
+
+Name on Food Safety Certificate
+
+Gloria Reyes
+
+Expiration Date
+
+10/10/2018
+
+Warewash
+
+Chlorine (Cl)
+
+ppm
+
+Water/Hot Water
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA) 120 º F Hand Sink Temp
+
+ppm 120 º F
+
+Heat 185 º F Iodine
+
+ppm
+
+Wiping Cloth
+
+200 ppm QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION milk cartons / walk-in cooler / 41.00 ºF refried beans / serviing line / 193.00 ºF
+NOTES
+
+chocolate milk cartons / chest reach-in / 43.00 ºF ambient / 3-door reach-in cooler / 38.00 ºF
+
+NOTE: Hand soap and paper towel dispensers are located at the 2 compartment prep sink, which is approximately 10 feet away from 2 compartment warewashing sink. According to staff, handwashing only takes place at warewashing sink and at back handwashing sink next to employee restroom. Highly recommend removing soap/paper towel dispensers from prep sink to ensure handwashing does not take place here.
+
+STATUS
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required o RED- Closed; Suspension of permit to operate o Placard program not applicable at this time
+ACTIONS
+o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) o Food safety education required; # of employees o Permit Suspension; facility closure required (51)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by: Name and Title: Gloria Reyes / Head Cook 1 Specialist: S. LePage Co-Inspector:
+
+Phone: (916)875-8449
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

@@ -1,0 +1,170 @@
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/23/2015
+
+Time In: 2:00 pm
+
+Time Out: 3:10 pm
+
+Page:
+
+1 of 2
+
+Facility Name: CARL'S JR RESTAURANT #7051
+
+Address: 6400 ANTELOPE RD
+
+CT FA
+
+81.29
+
+FA0001443
+
+Permit Holder: AMS RESTAURANTS INC
+
+City: Citrus Heights
+
+Zip Code: 95621
+
+PR PR0001581
+
+PE
+
+1622
+
+Phone (916)725-2521
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 7 HOT AND COLD HOLDING TEMPERATURES
+OBSERVATIONS: Taco meat at 92F, steak at 93F, chicken at 90F at steam table. Maintain at 135F or above. Discarded voluntarily during inspection.
+One hot holding unit/ Steam table not working. Don't use until repaired.
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return to the required holding temperatures. (113996, 113998, 114037)
+
+MAJOR
+
+# 1a DEMONSTRATION OF KNOWLEDGE
+OBSERVATIONS: Employee did not know how to track time for sliced tomatoes to use time as health control. Explained during inspection. Train all employees today.
+CODE DESCRIPTION: Food employees shall have adequate knowledge of food safety as it relates to their assigned duties. (113947)
+# 8 TIME AS A PUBLIC HEALTH CONTROL
+OBSERVATIONS: Employee tracking time incorrectly. Facility uses time as health control for tomatoes and use them within 4 hours; tomatoes were brought out of refrigerator at 1:45pm but the time was rounded up to to start at 2 PM and to end at 6 pm. Correct immediately. Discard time must not be more than 4 hours from the time the food items are removed from temperature control. Corrected during inspection. Train all employees.
+CODE DESCRIPTION: When time as a public health control is used, the following procedures shall be observed: food items shall be marked to indicate four hours past the time when the food was removed from temperature control, food shall be served or discarded within the four-hour time limit, written procedures for food that was prepared, cooked, and refrigerated before time as a public health control was used, shall be maintained at the food facility and be made available to the enforcement agency upon request. (114000) # 33 NONFOOD-CONTACT SURFACES CLEAN
+OBSERVATIONS: -Cabinet under the soda machine in dining area not clean. Clean within 3 days.
+-Floor under the steam table/green burrito area not clean. Clean within 3 days.
+-Surface around the heating lamp over the fried food not clean (grease build up). Clean within 3 days.
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257) # 41 PLUMBING FIXTURES AND BACKFLOW PREVENTION
+OBSERVATIONS: Drainage pipe from refrigeator to floor sink lacking air gap. Provide at least 1 inch air gap between the pipe opening and flood rim level of floor sink within 5 days.
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+10/23/2015
+
+Time In: 2:00 pm
+
+Time Out: 3:10 pm
+
+Page:
+
+2 of 2
+
+Facility Name: CARL'S JR RESTAURANT #7051
+
+Address: 6400 ANTELOPE RD
+
+CT FA
+
+81.29
+
+FA0001443
+
+Permit Holder: AMS RESTAURANTS INC
+
+City: Citrus Heights
+
+Zip Code: 95621
+
+PR PR0001581
+
+PE
+
+1622
+
+Phone (916)725-2521
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+# 45 FLOOR, WALL, AND CEILING FINISHES
+OBSERVATIONS: The grout eroded in the floor tiles in dishwashing area and near green burrito station. One base coving tiles broken in freezer.
+
+Repair within 3 weeks.
+CODE DESCRIPTION: Food facilities shall be fully enclosed in a building consisting of permanent floors, walls, and an overhead structure that meets minimum standards. The walls and ceiling shall be smooth, durable, nonabsorbent, and easily cleanable. Flooring and base coving shall be smooth, durable, and made of approved nonabsorbent material that is easily cleanable. Floor surfaces shall be coved at the juncture of the floor and wall with a 3/8 inch minimum radius and shall extend up the wall at least 4 inches. (114143 (d), 114266, 114268, 114268.1, 114271, 114272)
+
+OVERALL INSPECTION COMMENTS
+
+OBSERVATIONS
+
+Name on Food Safety Certificate
+
+Mia Gutierrez
+
+Expiration Date
+
+10/08/2016
+
+Warewash
+
+Chlorine (Cl)
+
+ppm
+
+Water/Hot Water
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA) 123 º F Hand Sink Temp
+
+ppm 100 º F
+
+Heat
+
+º F Iodine
+
+ppm
+
+Wiping Cloth
+
+200 ppm QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION beef patties / walkin refrigerator / 39.00 ºF milk / reachin refrigerator / 42.00 ºF
+NOTES
+
+beef patties / hot holding / 158.00 ºF
+
+STATUS
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required o RED- Closed; Suspension of permit to operate o Placard program not applicable at this time
+ACTIONS
+o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) o Food safety education required; # of employees o Permit Suspension; facility closure required (51)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by: Name and Title: Mia Gutierrez / manager Specialist: R. Singh Co-Inspector:
+
+Phone: (916)876-7587
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

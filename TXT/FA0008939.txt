@@ -1,0 +1,185 @@
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+11/03/2015
+
+Time In: 12:42 pm
+
+Time Out: 1:36 pm
+
+Page:
+
+1 of 2
+
+Facility Name: VALLEY RECOVERY CENTER OF CALIFORNI
+
+Address: 2221 FAIR OAKS BLVD
+
+CT FA
+
+55.08
+
+FA0008939
+
+PR
+
+Permit Holder: SUMMIT BEHAVIORAL HEALTHCARE LLC
+
+City: Sacramento
+
+Zip Code: 95825
+
+Phone (916)514-8500
+
+PR0078897
+
+PE
+
+1622
+
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 14b WAREWASHING AND SANITIZING PROCEDURES
+OBSERVATIONS: Dishwashing machine sanitizer at 0 ppm. Machine was in use and had not been tested today. Repair machine so that it sanitizes dishes with a minimum of 50 ppm Chlorine. Correct 1 day.
+
+CODE DESCRIPTION: Food-contact surfaces and multiservice utensils shall be effectively washed, rinsed, and sanitized to remove or completely loosen soils by use of manual or mechanical methods. The temperature of the washing solution shall be maintained at least 100F or at the temperature specified by the manufacturer's label. Manual sanitation shall be accomplished during the final rinse by contact with solution containing 100 ppm available chlorine or 200 ppm quaternary ammonium. Mechanical sanitization shall be accomplished in the final rinse by achieving a utensil surface temperature of 160F or by contact with solution containing 50 ppm available chlorine. After cleaning and sanitizing, equipment and utensils shall be air dried. (114097, 114099.1, 114099.2, 114099.4, 114099.6, 114099.7, 114101 (b-d), 114105, 114109, 114111)
+
+For more information on this violation please watch the following Food Safety video:
+
+English Cantonese
+
+Spanish Vietnamese
+
+# 1a DEMONSTRATION OF KNOWLEDGE
+
+OBSERVATIONS: 3 compartment sink set up incorrectly as wash sanitize rinse. Provide training to ensure that proper dish washing sequence is followed: wash, rinse, sanitize. Instruction provided at inspection. Dishwashing sticker provided.
+
+CODE DESCRIPTION: Food employees shall have adequate knowledge of food safety as it relates to their assigned duties. (113947)
+
+# 29 IDENTIFICATION AND STORAGE OF TOXIC SUBSTANCES
+OBSERVATIONS: Unapproved pesticide (Raid Ant and Roach) noted inside cabinet under prep sink area. Remove unapproved pesticide from kitchen and do not use in kitchen area. Only pesticides approved for food facilities and applied by a licensed operator may be used in facility. Correct immediately.
+CODE DESCRIPTION: All poisonous substances, detergents, sanitizers, and cleaning compounds shall be stored to prevent contamination of food, equipment, utensils, linens, and single-use articles. Only pesticides that are necessary and specifically approved for use in a food facility may be used. Containers of poisonous or toxic materials shall have a legible manufacturer's label or if taken from bulk supplies shall be clearly and individually identified with the common name of the material. (114254, 114254.1, 114254.2)
+# 33 NONFOOD-CONTACT SURFACES CLEAN
+OBSERVATIONS: Dirt buildup noted around edge of floors.
+
+Drawers have some crumb/ dirt buildup.
+
+Provide more thorough and more routine cleaning. Correct 1 week.
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+# 41 PLUMBING FIXTURES AND BACKFLOW PREVENTION
+OBSERVATIONS: Drain from prep sink has been directly connected to waste line. This sink is required to have a minimum of a 1 inch air gap between the end of the drain pipe and the top of the floor level. Correct 1 week.
+
+MAJOR
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+Retail Food Facility Official Inspection Report
+
+Date:
+
+11/03/2015
+
+Time In: 12:42 pm
+
+Time Out: 1:36 pm
+
+Page:
+
+2 of 2
+
+Facility Name: VALLEY RECOVERY CENTER OF CALIFORNI
+
+Address: 2221 FAIR OAKS BLVD
+
+CT FA
+
+55.08
+
+FA0008939
+
+PR
+
+Permit Holder: SUMMIT BEHAVIORAL HEALTHCARE LLC
+
+City: Sacramento
+
+Zip Code: 95825
+
+Phone (916)514-8500
+
+PR0078897
+
+PE
+
+1622
+
+Type of Inspection: Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+
+Name on Food Safety Certificate
+
+Florence Williams
+
+Expiration Date
+
+02/04/2020
+
+Warewash
+
+Chlorine (Cl)
+
+0 ppm
+
+Water/Hot Water
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA) 127 º F Hand Sink Temp
+
+ppm 100 º F
+
+Heat 136 º F Iodine Wiping Cloth
+
+ppm
+
+ppm Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION Chicken base / 2 door atosa / 39.00 ºF
+
+cottage cheese / 2 door atosa by back door / 39.00 ºF
+
+NOTES
+
+STATUS
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required o RED- Closed; Suspension of permit to operate o Placard program not applicable at this time
+ACTIONS
+o Photographic documentation obtained o Compliance conference required o Food / equipment impounded (50) o Food safety education required; # of employees o Permit Suspension; facility closure required (51)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+
+Name and Title: Florence Williams / Dietary manager
+
+Specialist: J. Talusik
+
+Phone: (916)875-8580
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department 10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+
