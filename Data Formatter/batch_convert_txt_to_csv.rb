@@ -26,6 +26,7 @@ BATCH15 = ALL_TXT_REPORTS.slice(2800, 200)
 BATCH16 = ALL_TXT_REPORTS.slice(3000, 200)
 BATCH17 = ALL_TXT_REPORTS.slice(3200, 200)
 BATCH18 = ALL_TXT_REPORTS.slice(3400, 200)
+BATCH18b = ALL_TXT_REPORTS.slice(3523, 76) # Error on 3522, FA0019939.txt & 3599, FA0028690.txt
 BATCH19 = ALL_TXT_REPORTS.slice(3600, 200)
 BATCH20 = ALL_TXT_REPORTS.slice(3800, 200)
 BATCH21 = ALL_TXT_REPORTS.slice(4000, 200)
@@ -40,5 +41,5 @@ def run_batch_conversion(batch_arr)
   end
 end
 
-# run_batch_conversion(BATCH17)
-p ALL_TXT_REPORTS[3399]
+run_batch_conversion(BATCH18b)
+# p ALL_TXT_REPORTS[3599]
