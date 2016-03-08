@@ -7,7 +7,9 @@ def convert_to_csv(file_path)
   @original_file_path = File.expand_path(INPUT_DIR) + "/#{@filename}.#{ext}"
   @new_file_path = File.expand_path(OUTPUT_DIR) + "/#{@filename}.csv"
 
-  write_csv(parse_contents, @new_file_path) unless parse_contents.empty?
+  records = parse_contents
+
+  write_csv(records, @new_file_path) unless records.empty?
 end
 
 def write_csv(rows_array, filename="new.csv")
@@ -21,10 +23,26 @@ end
 
 def parse_contents
   @contents = File.readlines(@original_file_path)
-  parsed_rows = [COLUMN_HEADERS]
+  delimited_rows = [COLUMN_HEADERS]
   facility_info = get_facility_info
+  violations = get_violations
 
-  parsed_rows.push facility_info
+  violations.each do |v|
+    record = get_facility_info
+    record[COLUMN_ORDER[:report_id]] = @filename.strip
+    record[COLUMN_ORDER[:violation]] = v
+    delimited_rows << record
+  end
+
+  delimited_rows
+end
+
+def get_violations
+  violations = []
+  @contents.each do |line|
+    violations << line if line.start_with? "#"
+  end
+  violations
 end
 
 def get_facility_info
