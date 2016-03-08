@@ -12,29 +12,38 @@ for file in *.pdf; do pdftotext "$file" "$file.txt"; done
 *modified version to work with our file since the above line was doing xyz.pdf.txt instead of just xyz.txt;
 for file in *.pdf; do pdftotext "$file"; done
 
+wget -c -w 3 -i list
+
+wget -c -w 3 --trust-server-names -i list
+
+
+
+
+
 *the below line uses regular expressions to key in on lines starting with hashtag/pound sign, which are the violations;
 *prelim to using grep on every single text file and pipe + appending for a master list of violations, building up to .csv file;
 grep -n '#' FA0001004.txt
 
 potentials (YES, TESTED AND THEY WORK!)
+	-H to add filename(s) to output
+	>> to redirect append instead of clobber overwrite
 
--H to add filenames
->> to redirect (append)
-
-
-
-now, modify to loop all texts, no .sh needed
-
-*not working, dis-regard temporarily;
-for file in *.txt; do grep -nH '#' "$file" >> test.txt; done
+*mod to loop all files, no .sh needed; not working, dis-regard temporarily;
+	for file in *.txt; do grep -nH '#' "$file" >> test.txt; done
 
 *removed n for line #;
-"grep -H '#' FA0001006.txt >> test.txt” 
+	"grep -H '#' FA0001006.txt >> test.txt” 
 
 
-final solution:
-
-rm violations
-grep -rni "#" * >> violations
+One solution: 
+	rm violations
+	grep -rni "#" * >> violations
 
 MAKE DARN SURE YOU RM THE VIOLATIONS FILE BEFORE, RECURSION WILL BLOW YOUR COMPUTER UP.. further research needed.. temporary solution reached
+
+newer better solution:
+	ls *.txt | xargs -n1 grep '#' > ../test.txt
+
+
+*count files in DIR_NAME, recursively;
+	find DIR_NAME -type f | wc -l
