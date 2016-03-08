@@ -43,5 +43,5 @@ def run_batch_conversion(batch_arr)
   end
 end
 
-# run_batch_conversion(BATCH23)
-p ALL_TXT_REPORTS[4599]
+run_batch_conversion(BATCH24)
+# p ALL_TXT_REPORTS[4799]
