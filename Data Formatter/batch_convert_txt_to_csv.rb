@@ -13,6 +13,7 @@ BATCH5b = ALL_TXT_REPORTS.slice(915, 85) # Errors on 914, FA0003155.txt
 BATCH6 = ALL_TXT_REPORTS.slice(1000, 200)
 BATCH6b = ALL_TXT_REPORTS.slice(1176, 24) # Errors on 1175, FA0003655.txt
 BATCH7 = ALL_TXT_REPORTS.slice(1200, 200)
+BATCH7b = ALL_TXT_REPORTS.slice(1234, 165) # Errors on 1233, FA0003793.txt
 BATCH8 = ALL_TXT_REPORTS.slice(1400, 200)
 BATCH9 = ALL_TXT_REPORTS.slice(1600, 200)
 BATCH10 = ALL_TXT_REPORTS.slice(1800, 200)
@@ -38,5 +39,5 @@ def run_batch_conversion(batch_arr)
   end
 end
 
-run_batch_conversion(BATCH6b)
-# p ALL_TXT_REPORTS[1199]
+run_batch_conversion(BATCH7b)
+# p ALL_TXT_REPORTS[1399]
